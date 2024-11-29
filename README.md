@@ -1,1 +1,1 @@
-# handwritten-digit-classification
+# Handwritten Digit Classification Notebook
